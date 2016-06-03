@@ -1,0 +1,29 @@
+<div class="m-index">
+  <section class="iscroll-box m-index-container">
+
+  </section>
+  <footer>
+    <ul>
+      <li class="active" action-type='switch.sonView' data-tag='home'>
+        <i class="yo-ico">&#xe63c;</i>
+        <b>首页</b>
+      </li>
+      <li action-type='switch.sonView' data-tag='single'>
+        <i class="yo-ico">&#xe684;</i>
+        <b>单品</b>
+      </li>
+      <li action-type='switch.sonView' data-tag='match'>
+        <i class="yo-ico">&#xe64a;</i>
+        <b>搭配</b>
+      </li>
+      <li action-type='switch.sonView' data-tag='school'>
+        <i class="yo-ico">&#xe613;</i>
+        <b>学堂</b>
+      </li>
+      <li action-type='switch.sonView' data-tag='my'>
+        <i class="yo-ico">&#xe65c;</i>
+        <b>我的</b>
+      </li>
+    </ul>
+  </footer>
+</div>

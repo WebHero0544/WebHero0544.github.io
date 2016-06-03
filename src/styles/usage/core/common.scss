@@ -1,0 +1,20 @@
+$font-heiti-light: Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+$font-heiti-medium: Heiti SC Medium, Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+
+$base-color: #0dc441;
+@font-face {
+  font-family: yofont;
+    src: url('/nanyibang/images/iconfont/iconfont.eot'); /* IE9*/
+    src: url('/nanyibang/images/iconfont/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/nanyibang/images/iconfont/iconfont.woff') format('woff'), /* chrome、firefox */
+    url('/nanyibang/images/iconfont/iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('/nanyibang/images/iconfont/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+@font-face {
+  font-family: yofont;
+    src: url('/nanyibang/images/iconfont/iconfont-header.eot'); /* IE9*/
+    src: url('/nanyibang/images/iconfont/iconfont-header.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/nanyibang/images/iconfont/iconfont-header.woff') format('woff'), /* chrome、firefox */
+    url('/nanyibang/images/iconfont/iconfont-header.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('/nanyibang/images/iconfont/iconfont-header.svg#iconfont') format('svg'); /* iOS 4.1- */
+}

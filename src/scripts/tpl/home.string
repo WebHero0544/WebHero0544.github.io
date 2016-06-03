@@ -1,0 +1,43 @@
+    <div class="iscroll-self m-home">
+      <header>
+        <ul>
+          <li class="yo-ico">&#xe605;</li>
+          <li>首页</li>
+          <li><i class="yo-ico">&#xe618;</i><i class="yo-ico">&#xe608;</i></li>
+        </ul>
+      </header>
+      <section>
+        <div class="playpic">
+          <div class="swiper-container" id="playpic-swiper">
+              <div class="swiper-wrapper">
+                  <div class="swiper-slide"><img src="/nanyibang/images/pp1.jpg"></div>
+                  <div class="swiper-slide"><img src="/nanyibang/images/pp1.jpg"></div>
+                  <div class="swiper-slide"><img src="/nanyibang/images/pp1.jpg"></div>
+                  <div class="swiper-slide"><img src="/nanyibang/images/pp1.jpg"></div>
+              </div>
+              <!-- 如果需要分页器 -->
+              <div class="swiper-pagination"></div>
+          </div>
+        </div>
+        <div>
+          <ul>
+            <li>
+              <img src="/nanyibang/images/itwo1.png" alt="">
+              <p>每日签到</p>
+            </li>
+            <li>
+              <img src="/nanyibang/images/itwo2.png" alt="">
+              <p>型男SHOW</p>
+            </li>
+            <li>
+              <img src="/nanyibang/images/itwo3.png" alt="">
+              <p>穿衣测试</p>              
+            </li>
+            <li>
+              <img src="/nanyibang/images/itwo4.png" alt="">
+              <p>今天穿什么</p>             
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
