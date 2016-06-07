@@ -1,10 +1,10 @@
 <div class="swiper-container" id="guide-swiper">
     <div class="swiper-wrapper">
-        <div class="swiper-slide"><img class='guide-img' src="images/1.png" /></div>
-        <div class="swiper-slide"><img class='guide-img' src="images/2.png" /></div>
-        <div class="swiper-slide"><img class='guide-img' src="images/3.png" /></div>
-        <div class="swiper-slide"><img class='guide-img' src="images/4.png" /></div>
+        <div class="swiper-slide"><img class='guide-img' src="/nanyibang/images/1.png" /></div>
+        <div class="swiper-slide"><img class='guide-img' src="/nanyibang/images/2.png" /></div>
+        <div class="swiper-slide"><img class='guide-img' src="/nanyibang/images/3.png" /></div>
+        <div class="swiper-slide"><img class='guide-img' src="/nanyibang/images/4.png" /></div>
         <!--action-type自定义属性用于绑定事件-->
-        <div class="swiper-slide"><img class='guide-img' src="images/5.png" action-type="goto.index" /></div>
+        <div class="swiper-slide"><img class='guide-img' src="/nanyibang/images/5.png" action-type="goto.index" /></div>
     </div>
 </div>
